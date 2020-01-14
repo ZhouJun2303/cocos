@@ -1,13 +1,16 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.3",
   "uuid": "37af60aa-dadb-479c-8d5c-85e0a8e1e669",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "wenzi001": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "630d3be3-d850-489c-94d3-bc52be73e5aa",
       "rawTextureUuid": "37af60aa-dadb-479c-8d5c-85e0a8e1e669",
       "trimType": "auto",

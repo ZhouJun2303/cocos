@@ -17,7 +17,10 @@
     "ParticleSystem",
     "TiledMap",
     "Spine Skeleton",
-    "VideoPlayer"
+    "VideoPlayer",
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
   ],
   "facebook": {
     "appID": "",
@@ -42,5 +45,6 @@
   },
   "start-scene": "7898c3aa-75db-4523-8b22-e60bf7d83784",
   "use-customize-simulator": false,
-  "use-project-simulator-setting": false
+  "use-project-simulator-setting": false,
+  "assets-sort-type": "name"
 }

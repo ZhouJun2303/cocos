@@ -1,13 +1,16 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.3",
   "uuid": "59606dc9-cba7-456d-b160-3ab40f13bc64",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "GameEnd20": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b092af06-2d62-4a4f-ae7c-103926cb8a53",
       "rawTextureUuid": "59606dc9-cba7-456d-b160-3ab40f13bc64",
       "trimType": "auto",
