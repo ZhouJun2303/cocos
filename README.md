@@ -4,5 +4,5 @@
 
 ## Authors
  
-* **build whis** - *胖胖* - [click](https://github.com/ZhouJun2303)
+* **build with** - *胖胖* - [click](https://github.com/ZhouJun2303)
  
